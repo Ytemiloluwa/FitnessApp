@@ -15,6 +15,30 @@
 		A716486D26A2F49400506089 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716484226A2F49300506089 /* ContentView.swift */; };
 		A716486E26A2F49400506089 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A716484326A2F49400506089 /* Assets.xcassets */; };
 		A716486F26A2F49400506089 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A716484326A2F49400506089 /* Assets.xcassets */; };
+		A716487F26A2F4A600506089 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716487E26A2F4A600506089 /* LoginScreen.swift */; };
+		A716488026A2F4A600506089 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716487E26A2F4A600506089 /* LoginScreen.swift */; };
+		A716488226A2FB3400506089 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716488126A2FB3400506089 /* HomeScreen.swift */; };
+		A716488326A2FB3400506089 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716488126A2FB3400506089 /* HomeScreen.swift */; };
+		A716488526A300AE00506089 /* SigninWithApple.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716488426A300AE00506089 /* SigninWithApple.swift */; };
+		A716488626A300AE00506089 /* SigninWithApple.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716488426A300AE00506089 /* SigninWithApple.swift */; };
+		A716488E26A3067E00506089 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716488D26A3067E00506089 /* TabBar.swift */; };
+		A716488F26A3067E00506089 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716488D26A3067E00506089 /* TabBar.swift */; };
+		A716489126A312DE00506089 /* selectedsports.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716489026A312DE00506089 /* selectedsports.swift */; };
+		A716489226A312DE00506089 /* selectedsports.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716489026A312DE00506089 /* selectedsports.swift */; };
+		A716489826A3226A00506089 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716489726A3226A00506089 /* Constant.swift */; };
+		A716489926A3226A00506089 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716489726A3226A00506089 /* Constant.swift */; };
+		A716489B26A3228F00506089 /* ActivityData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716489A26A3228F00506089 /* ActivityData.swift */; };
+		A716489C26A3228F00506089 /* ActivityData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716489A26A3228F00506089 /* ActivityData.swift */; };
+		A716489F26A322DD00506089 /* ColorExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716489E26A322DD00506089 /* ColorExt.swift */; };
+		A71648A026A322DD00506089 /* ColorExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = A716489E26A322DD00506089 /* ColorExt.swift */; };
+		A71648A326A3233800506089 /* StandChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71648A226A3233800506089 /* StandChartView.swift */; };
+		A71648A426A3233800506089 /* StandChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71648A226A3233800506089 /* StandChartView.swift */; };
+		A71648A626A3235F00506089 /* BarChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71648A526A3235F00506089 /* BarChartView.swift */; };
+		A71648A726A3235F00506089 /* BarChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71648A526A3235F00506089 /* BarChartView.swift */; };
+		A71648AA26A326A500506089 /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71648A926A326A500506089 /* PickerView.swift */; };
+		A71648AB26A326A500506089 /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71648A926A326A500506089 /* PickerView.swift */; };
+		A76B0E9026A5A69B001FAA93 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76B0E8F26A5A69B001FAA93 /* Model.swift */; };
+		A76B0E9126A5A69B001FAA93 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76B0E8F26A5A69B001FAA93 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +73,18 @@
 		A716486326A2F49400506089 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A716486726A2F49400506089 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		A716486926A2F49400506089 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A716487E26A2F4A600506089 /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
+		A716488126A2FB3400506089 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
+		A716488426A300AE00506089 /* SigninWithApple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigninWithApple.swift; sourceTree = "<group>"; };
+		A716488D26A3067E00506089 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		A716489026A312DE00506089 /* selectedsports.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = selectedsports.swift; sourceTree = "<group>"; };
+		A716489726A3226A00506089 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		A716489A26A3228F00506089 /* ActivityData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityData.swift; sourceTree = "<group>"; };
+		A716489E26A322DD00506089 /* ColorExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExt.swift; sourceTree = "<group>"; };
+		A71648A226A3233800506089 /* StandChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandChartView.swift; sourceTree = "<group>"; };
+		A71648A526A3235F00506089 /* BarChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarChartView.swift; sourceTree = "<group>"; };
+		A71648A926A326A500506089 /* PickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
+		A76B0E8F26A5A69B001FAA93 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,9 +134,16 @@
 		A716484026A2F49300506089 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				A71648A826A3239300506089 /* Screens */,
+				A71648A126A3232200506089 /* Views */,
+				A716489D26A322C700506089 /* Extension */,
+				A716489626A3225B00506089 /* Data */,
 				A716484126A2F49300506089 /* FitnessAppApp.swift */,
 				A716484226A2F49300506089 /* ContentView.swift */,
 				A716484326A2F49400506089 /* Assets.xcassets */,
+				A716488426A300AE00506089 /* SigninWithApple.swift */,
+				A716489026A312DE00506089 /* selectedsports.swift */,
+				A76B0E8F26A5A69B001FAA93 /* Model.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -149,6 +192,43 @@
 				A716486926A2F49400506089 /* Info.plist */,
 			);
 			path = "Tests macOS";
+			sourceTree = "<group>";
+		};
+		A716489626A3225B00506089 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				A716489726A3226A00506089 /* Constant.swift */,
+				A716489A26A3228F00506089 /* ActivityData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		A716489D26A322C700506089 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				A716489E26A322DD00506089 /* ColorExt.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		A71648A126A3232200506089 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				A71648A226A3233800506089 /* StandChartView.swift */,
+				A71648A526A3235F00506089 /* BarChartView.swift */,
+				A716488D26A3067E00506089 /* TabBar.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A71648A826A3239300506089 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				A716488126A2FB3400506089 /* HomeScreen.swift */,
+				A716487E26A2F4A600506089 /* LoginScreen.swift */,
+				A71648A926A326A500506089 /* PickerView.swift */,
+			);
+			path = Screens;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,7 +311,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
-				LastUpgradeCheck = 1250;
+				LastUpgradeCheck = 1300;
 				TargetAttributes = {
 					A716484726A2F49400506089 = {
 						CreatedOnToolsVersion = 12.5;
@@ -308,8 +388,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A716488226A2FB3400506089 /* HomeScreen.swift in Sources */,
+				A71648A626A3235F00506089 /* BarChartView.swift in Sources */,
+				A716489826A3226A00506089 /* Constant.swift in Sources */,
 				A716486C26A2F49400506089 /* ContentView.swift in Sources */,
+				A716489B26A3228F00506089 /* ActivityData.swift in Sources */,
 				A716486A26A2F49400506089 /* FitnessAppApp.swift in Sources */,
+				A716489126A312DE00506089 /* selectedsports.swift in Sources */,
+				A76B0E9026A5A69B001FAA93 /* Model.swift in Sources */,
+				A716489F26A322DD00506089 /* ColorExt.swift in Sources */,
+				A716488526A300AE00506089 /* SigninWithApple.swift in Sources */,
+				A71648AA26A326A500506089 /* PickerView.swift in Sources */,
+				A716488E26A3067E00506089 /* TabBar.swift in Sources */,
+				A71648A326A3233800506089 /* StandChartView.swift in Sources */,
+				A716487F26A2F4A600506089 /* LoginScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -317,8 +409,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A716488326A2FB3400506089 /* HomeScreen.swift in Sources */,
+				A71648A726A3235F00506089 /* BarChartView.swift in Sources */,
+				A716489926A3226A00506089 /* Constant.swift in Sources */,
 				A716486D26A2F49400506089 /* ContentView.swift in Sources */,
+				A716489C26A3228F00506089 /* ActivityData.swift in Sources */,
 				A716486B26A2F49400506089 /* FitnessAppApp.swift in Sources */,
+				A716489226A312DE00506089 /* selectedsports.swift in Sources */,
+				A76B0E9126A5A69B001FAA93 /* Model.swift in Sources */,
+				A71648A026A322DD00506089 /* ColorExt.swift in Sources */,
+				A716488626A300AE00506089 /* SigninWithApple.swift in Sources */,
+				A71648AB26A326A500506089 /* PickerView.swift in Sources */,
+				A716488F26A3067E00506089 /* TabBar.swift in Sources */,
+				A71648A426A3233800506089 /* StandChartView.swift in Sources */,
+				A716488026A2F4A600506089 /* LoginScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -516,6 +620,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 4Q6S759NWS;
@@ -540,6 +645,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = 4Q6S759NWS;
